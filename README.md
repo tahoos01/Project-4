@@ -17,3 +17,6 @@
  - เครื่องมือที่ใช้ : 
      คอมพิวเตอร์ สำหรับสร้างแอพพลิเคชั่น 1 เครื่อง 
   
+
+
+Trello Scrum Board Link:https://trello.com/b/giYWhTIu/untitled-board
